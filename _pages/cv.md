@@ -30,7 +30,7 @@ Skills
 
 Publications
 ======
-Please see [Publications Page](https://github.com/phy-yuanxi/phy-yuanxi.github.io/publications)
+Please see [Publications Page](phy-yuanxi.github.io/publications)
 
 
 Awards
