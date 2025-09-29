@@ -22,6 +22,7 @@ Work experience
   
 Skills
 ======
+* Language:IELTS: 7.0
 * Experiments :
   Neutron scattering; X-ray scattering; TEM; SEM; Cryo-EM; Protein purification; DSC; DSF.
 * Computation :
