@@ -11,54 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Shanghai Jiao Tong University, 2020-2025
+* B.S. in Shanghai Jiao Tong University, 2016-2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 202503-now: Postdoctral Researcher
+  * Shanghai Jiao Tong University
+  * Supervisor: [Prof.Liang Hong](https://ins.sjtu.edu.cn/people/lhong/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Experiments :
+  Neutron scattering; X-ray scattering; TEM; SEM; Cryo-EM; Protein purification; DSC; DSF.
+* Computation :
+  Protein language model training and applications; Molecular simulations with Lammps; Matlab
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+Please see [Publications Page](https://github.com/phy-yuanxi/phy-yuanxi.github.io/publications)
+
+
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Outstanding graduate of Shanghai in 2024
+* Shanghai Jiao Tong University Zhiyuan Honorary Doctorate
+* National Scholarship of China in SJTU (2024)
+* National Scholarship of China in SJTU (2022)
+* Outstanding graduate of Shanghai Jiao Tong University in 2020
   
-Teaching
+Conference
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+*	International Conference on Neutron Scattering (ICNS) 2022----Poster 
+*	5th International Workshop on Dynamics in Confinement (Confit 2022 in ILL) ---- Oral 
+*	9th International Discussion Meeting on Relaxations in Complex Systems(9IDMRCS) 2023----Poster
+
+Other Activity
 ======
-* Currently signed in to 43 different slack teams
+* 9th China International "Internet+" Innovation and Entrepreneurship Competition (Shanghai Gold Prize)
+* 2025 Data Element X Competition (First Prize in the Technology Innovation Track)
+
