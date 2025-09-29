@@ -15,12 +15,12 @@ Preprints
 
 2025
 ======
-* **MAXWELL: Efficient Learning of Protein-Mutation Stability Landscapes using Protein Language Models**
+* **MAXWELL: Efficient Learning of Protein-Mutation Stability Landscapes using Protein Language Models**  
 **Yuanxi Yu**, Fan Jiang, XinZhu Ma, Liang Zhang, Bozitao Zhong, Wanli Ouyang, Guisheng Fan, Huiqun Yu, Liang Hong*, Mingchen Li*
 NeurIPS Poster, 2025
 [URL](https://www.biorxiv.org/content/10.1101/2025.05.30.656964v1)
 
-* **VenusMutHub: A systematic evaluation of protein mutation effect predictors on small-scale experimental data**
+* **VenusMutHub: A systematic evaluation of protein mutation effect predictors on small-scale experimental data**  
 Liang Zhang, Hua Pang, Chenghao Zhang, Song Li, Yang Tan, Fan Jiang, Mingchen Li, **Yuanxi Yu**, Ziyi Zhou, Banghao Wu, Bingxin Zhou, Hao Liu, Pan Tan, Liang Hong
 Acta Pharmaceutica Sinica B,2025
 [URL]()
