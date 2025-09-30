@@ -61,14 +61,14 @@ Fan Jiang#, Mingchen Li#, Jiajun Dong#, **Yuanxi Yu#**, Xinyu Sun#, Banghao Wu#,
 
 * **Enhancing efficiency of protein language models with minimal wet-lab data through few-shot learning**   
 Ziyi Zhou#, Liang Zhang#, **Yuanxi Yu#**, Banghao Wu#, Mingchen Li, Liang Hong, Pan Tan  
-*Nature Communications*,2024 
+*Nature Communications*,2024   
 [URL](https://www.nature.com/articles/s41467-024-49798-6)
 
 2023
 ======
 * **The evolution of anionic nanoclusters at the electrode interface in water-in-salt electrolytes**  
 Lei Zhang#, **Yuanxi Yu#**, Liumin Suo, Wei Zhuang, Lunhua He, Xiaohua Zhang, Liang Hong, Pan Tan  
-*Physical Chemistry Chemical Physics*,2023  
+*Physical Chemistry Chemical Physics*,2023    
 [URL](https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp00803g/unauth)
 
 
@@ -76,13 +76,13 @@ Lei Zhang#, **Yuanxi Yu#**, Liumin Suo, Wei Zhuang, Lunhua He, Xiaohua Zhang, Li
 ======
 * **The ω3 scaling of the vibrational density of states in quasi-2D nanoconfined solids**  
 **Yuanxi Yu**, Chenxing Yang, Matteo Baggioli, Anthony E Phillips, Alessio Zaccone, Lei Zhang, Ryoichi Kajimoto, Mitsutaka Nakamura, Dehong Yu, Liang Hong 
-*Nature Communications*,2022 
+*Nature Communications*,2022   
 [URL](https://www.nature.com/articles/s41467-022-31349-6)
   
 2021
 ======
 * **Solid-like nano-anion cluster constructs a free lithium-ion-conducting superfluid framework in a water-in-salt electrolyte**  
 Pan Tan, Jinming Yue, Yuanxi Yu, Binghang Liu, Tao Liu, Lirong Zheng, Lunhua He, Xiaohua Zhang, Liumin Suo, Liang Hong  
-*The Journal of Physical Chemistry C*,2021 
+*The Journal of Physical Chemistry C*,2021  
 [URL](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c01663)
   
