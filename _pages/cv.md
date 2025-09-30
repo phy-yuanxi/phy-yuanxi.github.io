@@ -28,9 +28,18 @@ Skills
 * Computation :
   Protein language model training and applications; Molecular simulations with Lammps; Matlab
 
-Publications
+Publications and Patents
 ======
-Please see [Publications Page](https://phy-yuanxi.github.io/publications)
+Please see [Publications Page](https://phy-yuanxi.github.io/publications) for the articles and conferences.
+
+*  **A creatinase mutant applied to creatinine detection, along with its mutation site selection, purification, and detection methods**  
+*CN117448306A* (First Inventor)
+
+*  **A creatinase mutant with enhanced thermal stability and its applications**
+*CN116694608A* (First Inventor)
+
+* **A T7 RNA polymerase mutant with high thermal stability and its applications**
+*CN117070493A* (Second Inventor)
 
 
 Awards
