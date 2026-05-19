@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yuanxi /Personal Homepage"
+title                    : "Yuanxi Yu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yuanxi Yu"
-description              : &description "Postdoctral researcher in SJTU"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Postdoctoral researcher at SJTU"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://phy-yuanxi.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "My_photo.png"
   name             : "Yuanxi Yu"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctral researcher in SJTU"
+  bio              : "Postdoctoral researcher at SJTU"
   location         : "CN"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
@@ -94,7 +94,6 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:

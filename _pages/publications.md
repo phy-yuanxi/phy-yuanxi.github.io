@@ -56,7 +56,7 @@ Fan Jiang#, Mingchen Li#, Jiajun Dong#, **Yuanxi Yu#**, Xinyu Sun#, Banghao Wu#,
 
 * **Emergence of debye scaling in the density of states of liquids under nanoconfinement**  
 **Yuanxi Yu**, Sha Jin, Xue Fan, Mona Sarter, Dehong Yu, Liang Hong*, Matteo Baggioli*  
-*ACS nano*,2025  
+*ACS Nano*,2024  
 [URL](https://pubs.acs.org/doi/abs/10.1021/acsnano.4c04729)
 
 * **Enhancing efficiency of protein language models with minimal wet-lab data through few-shot learning**   

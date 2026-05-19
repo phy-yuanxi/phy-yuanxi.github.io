@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. from the School of Physics and Astronomy at Shanghai Jiao Tong University, where I was advised by Prof.[Liang Hong](https://ins.sjtu.edu.cn/people/lhong/). During my doctoral studies, I also conducted a short-term exchange at the group of Dr. [Jinglai Li](https://www.birmingham.ac.uk/staff/profiles/maths/li-jinglai) at the University of Birmingham, UK. I am currently continuing my research as a Postdoctoral Researcher in Liang's group, focusing primarily on AI-assisted directed evolution of proteins.
+I received my Ph.D. from the School of Physics and Astronomy at Shanghai Jiao Tong University, where I was advised by Prof. [Liang Hong](https://ins.sjtu.edu.cn/people/lhong/). During my doctoral studies, I also conducted a short-term exchange in the group of Dr. [Jinglai Li](https://www.birmingham.ac.uk/staff/profiles/maths/li-jinglai) at the University of Birmingham, UK. I am currently continuing my research as a Postdoctoral Researcher in Liang's group, focusing primarily on AI-assisted directed evolution of proteins.
 
-You can find my CV file here : [CV_file](../files/CV-Yuanxi.pdf). Or the [CV Page](https://phy-yuanxi.github.io/cv) could offer same information.  
+You can find my CV PDF here: [CV file](/files/CV-Yuanxi.pdf). The [CV page](https://phy-yuanxi.github.io/cv) contains the same information.  
 
-All my publications could be found in [Publications Page](https://phy-yuanxi.github.io/publications) and they will be updated timely.
-
+My publications are listed on the [Publications page](https://phy-yuanxi.github.io/publications) and will be updated regularly.

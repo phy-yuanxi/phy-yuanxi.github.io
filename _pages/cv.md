@@ -16,17 +16,17 @@ Education
 
 Work experience
 ======
-* 202503-now: Postdoctral Researcher
+* 202503-now: Postdoctoral Researcher
   * Shanghai Jiao Tong University
   * Supervisor: [Prof.Liang Hong](https://ins.sjtu.edu.cn/people/lhong/)
   
 Skills
 ======
-* Language:IELTS: 7.0
+* Language: IELTS 7.0
 * Experiments :
   Neutron scattering; X-ray scattering; TEM; SEM; Cryo-EM; Protein purification; DSC; DSF.
 * Computation :
-  Protein language model training and applications; Molecular simulations with Lammps; Matlab
+  Protein language model training and applications; Molecular simulations with LAMMPS; MATLAB
 
 Publications and Patents
 ======
@@ -60,4 +60,3 @@ Other Activity
 ======
 * 9th China International "Internet+" Innovation and Entrepreneurship Competition (Shanghai Gold Prize)
 * 2025 Data Element X Competition (First Prize in the Technology Innovation Track)
-
