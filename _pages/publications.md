@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-2026
-======
-* **Deep learning-guided dual-fitness evolution of T7 RNA polymerase for enhanced stability and activity**  
-Fan Jiang, Liqi Kang, Mingchen Li, Bozitao Zhong, Xiaoxia Chen, Banghao Wu, Mengrong Li, **Yuanxi Yu***, Liang Hong*  
-*Nucleic Acids Research*, 2026
-
 Preprints
 ======
 * **Discovery of Expression-Governing Residues in Proteins**  
 Fan Jiang#, Mingchen Li#, Banghao Wu, Liang Zhang, Bozitao Zhong, **Yuanxi Yu***, Liang Hong*  
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.01.06.631498v1)
+
+2026
+======
+* **Deep learning-guided dual-fitness evolution of T7 RNA polymerase for enhanced stability and activity**  
+Fan Jiang, Liqi Kang, Mingchen Li, Bozitao Zhong, Xiaoxia Chen, Banghao Wu, Mengrong Li, **Yuanxi Yu\***, Liang Hong\*  
+*Nucleic Acids Research*, 2026
 
 2025
 ======
