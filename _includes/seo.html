@@ -6,8 +6,10 @@
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
+{% assign localized_site_title = site.title %}
+{% if page.lang == 'zh-CN' %}{% assign localized_site_title = '余元玺 / 个人主页' %}{% endif %}
 {% if page.title %}
-  {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
+  {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: localized_site_title %}
 {% endif %}
 
 {% if seo_title %}
@@ -113,8 +115,8 @@
 <!-- end SEO -->
 
 <!-- Open Graph protocol data (https://ogp.me/), used by social media -->
-<meta property="og:locale" content="{{ site.locale | default: "en" }}">
-<meta property="og:site_name" content="{{ site.title }}"> 
+<meta property="og:locale" content="{{ page.locale | default: site.locale | default: "en" | replace: "-", "_" }}">
+<meta property="og:site_name" content="{{ localized_site_title }}">
 <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
 {% if page.date %}
   <meta property="og:type" content="article">

@@ -41,3 +41,14 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Keep language switching accessible when the primary navigation collapses. */
+.masthead__menu { display: flex; align-items: center; }
+.masthead__menu > .greedy-nav { flex: 1; min-width: 0; }
+.language-switch { flex: 0 0 auto; margin-left: 1rem; }
+.language-switch a { display: block; color: var(--global-masthead-link-color); border: 1px solid currentColor; border-radius: 4px; padding: 0.2em 0.55em; font-size: 0.85em; }
+html[lang="zh-CN"] .page__content { line-height: 1.85; }
+@media (max-width: 600px) {
+  .greedy-nav .masthead__menu-item--lg { max-width: 34vw; padding-right: 0.5rem; }
+  .greedy-nav .masthead__menu-item--lg a { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .greedy-nav .visible-links > li > a { margin-left: 0.45rem; margin-right: 0.45rem; }
+}

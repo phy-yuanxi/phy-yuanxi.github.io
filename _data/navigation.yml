@@ -10,3 +10,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+zh:
+  - title: "论文"
+    url: /zh/publications/
+  - title: "简历"
+    url: /zh/cv/

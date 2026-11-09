@@ -1,1 +1,9 @@
-# Authors
+# Localized profile for the Chinese pages.
+yuanxi_zh:
+  name: "余元玺"
+  avatar: "My_photo.png"
+  bio: "上海交通大学博士后；Spiritein 创始人"
+  location: "中国，上海"
+  employer: "上海交通大学"
+  email: "y445980780@sjtu.edu.cn"
+  googlescholar: "https://scholar.google.com.hk/citations?user=ETPbMygAAAAJ&hl=zh-CN"

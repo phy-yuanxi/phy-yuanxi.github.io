@@ -15,3 +15,8 @@
 <meta name="theme-color" content="#ffffff"/>
 
 <!-- end custom head snippets -->
+
+{% if page.translation_url %}
+<link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url | absolute_url }}" />
+<link rel="alternate" hreflang="{% if page.lang == 'zh-CN' %}en{% else %}zh-CN{% endif %}" href="{{ page.translation_url | absolute_url }}" />
+{% endif %}
