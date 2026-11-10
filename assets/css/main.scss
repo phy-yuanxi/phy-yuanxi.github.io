@@ -52,3 +52,8 @@ html[lang="zh-CN"] .page__content { line-height: 1.85; }
   .greedy-nav .masthead__menu-item--lg a { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .greedy-nav .visible-links > li > a { margin-left: 0.45rem; margin-right: 0.45rem; }
 }
+
+/* Keep the contact trigger legible in both site themes. */
+.author__urls-wrapper .btn--inverse { color: var(--global-text-color) !important; }
+.author__urls-wrapper .btn--inverse:hover,
+.author__urls-wrapper .btn--inverse:focus-visible { background-color: var(--global-border-color); }
